@@ -3,9 +3,9 @@ Speech Recognition System  A Python-based Speech Recognition System that records
 
 Features
 
-Record audio from microphone
-Save recordings automatically
-Convert speech to text
-Adjustable recognition sensitivity
-Error handling for recording and transcription
+Record audio from microphone,
+Save recordings automatically,
+Convert speech to text,
+Adjustable recognition sensitivity,
+Error handling for recording and transcription.
 
