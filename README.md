@@ -46,9 +46,3 @@ A Python-based Speech Recognition System that records audio from the microphone 
 ---
 
 
-
----
-
-# Author
-
-Milan Arote
